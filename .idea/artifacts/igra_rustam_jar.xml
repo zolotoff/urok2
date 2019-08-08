@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="igra_rustam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/igra_rustam_jar</output-path>
+    <root id="archive" name="igra_rustam.jar">
+      <element id="module-output" name="igra_rustam" />
+    </root>
+  </artifact>
+</component>
